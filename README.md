@@ -39,6 +39,4 @@ JavaScript
 
 No frameworks and no PHP.
 
-Note on tools
 
-I used an AI assistant (Claude) to help me build and understand this page. I am studying the code so I can explain it.
